@@ -6,7 +6,7 @@ var config = {
     alignment: 'left',
     title: 'The Happiest Countries on Earth',
     byline: 'By Amy Wu',
-    footer: 'Data Sources: <a href="https://www.history.com/news/the-war-of-words-behind-happy-holidays">History.com</a>, <a href="https://www.mapbox.com/">Mapbox</a>, <a href="https://commons.wikimedia.org/wiki/Main_Page">Wikipedia Commons</a>, <a href="https://worldhappiness.report/ed/2020/">World Happiness Report 2020</a>',
+    footer: 'Data Sources: <a href="https://www.history.com/news/the-war-of-words-behind-happy-holidays">History.com</a>, <a href="https://demos.mapbox.com/scrollytelling/">Mapbox</a>, <a href="https://commons.wikimedia.org/wiki/Main_Page">Wikipedia Commons</a>, <a href="https://worldhappiness.report/ed/2020/">World Happiness Report 2020</a>',
 
   chapters: [
 

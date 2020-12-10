@@ -6,13 +6,13 @@ var config = {
     alignment: 'left',
     title: 'The Happiest Countries on Earth',
     byline: 'By Amy Wu',
-    footer: 'Data Sources: <a href="https://www.history.com/news/the-war-of-words-behind-happy-holidays">History.com</a>, <a href="https://demos.mapbox.com/scrollytelling/">Mapbox</a>, <a href="https://commons.wikimedia.org/wiki/Main_Page">Wikipedia Commons</a>, <a href="https://worldhappiness.report/ed/2020/">World Happiness Report 2020</a>',
+    footer: 'Data Sources: History.com (https://www.history.com/news/the-war-of-words-behind-happy-holidays), <a href="https://demos.mapbox.com/scrollytelling/">Mapbox</a>, <a href="https://commons.wikimedia.org/wiki/Main_Page">Wikipedia Commons</a>, World Happiness Report 2020 (https://worldhappiness.report/ed/2020/',
 
   chapters: [
 
        {
             id: 'earth1',
-            description: '"Happy Holidays" is a phrase that was first used  <a href="https://www.history.com/news/the-war-of-words-behind-happy-holidays">over 100 years ago</a>, but which countries are the happiest? In 2020, the World Happiness Report ranked countries based on several factors, including GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and freedom from corruption. The top 10 countries had the highest combined scores in these categories. Who were they? Scroll down to view the happiest countries on Earth.',
+            description: '"Happy Holidays" is a phrase that was first used over 100 years ago, but which countries are the happiest? In 2020, the World Happiness Report ranked countries based on several factors, including GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and freedom from corruption. The top 10 countries had the highest combined scores in these categories. Who were they? Scroll down to view the happiest countries on Earth.',
 
             location: {
                 center: [-97.73744, 30.281],
@@ -189,7 +189,7 @@ var config = {
               title: 'Happy Holidays, everyone!',
             
               
-            description: '<a href="https://worldhappiness.report/ed/2020/">Read the full World Happiness Report 2020 here.</a>',
+ 
               location: {
                   center: [6.13338, 49.81664],
                   zoom: 9.22,

@@ -6,13 +6,13 @@ var config = {
     alignment: 'left',
     title: 'The Happiest Countries on Earth',
     byline: 'By Amy Wu',
-    footer: 'Data Sources: <a href="https://www.history.com/news/the-war-of-words-behind-happy-holidays">Pruitt, S. (2018, Aug. 31). The War of Words behind ‘Happy Holidays’. History.com. https://www.history.com/news/the-war-of-words-behind-happy-holidays</a>, <a href="https://demos.mapbox.com/scrollytelling/">Mapbox</a>, <a href="https://commons.wikimedia.org/wiki/Main_Page">Wikipedia Commons</a>, <a href="https://worldhappiness.report/ed/2020/">Helliwell, J., Layard, R., Sachs, J, & De Neve, J., eds. (2020). World Happiness Report 2020. New York: Sustainable Development Solutions Network.</a>',
+    footer: 'Data Sources: <a href="https://www.history.com/news/the-war-of-words-behind-happy-holidays">Pruitt, S. (2018, Aug. 31). The War of Words behind ‘Happy Holidays’. History.com.</a>, <a href="https://demos.mapbox.com/scrollytelling/">Mapbox</a>, <a href="https://commons.wikimedia.org/wiki/Main_Page">Wikipedia Commons</a>, <a href="https://worldhappiness.report/ed/2020/">Helliwell, J., Layard, R., Sachs, J, & De Neve, J., eds. (2020). World Happiness Report 2020. New York: Sustainable Development Solutions Network.</a>',
 
   chapters: [
 
        {
             id: 'earth1',
-            description: '"Happy Holidays" is a phrase that was first used over 100 years ago, but which countries are the happiest? In 2020, the World Happiness Report ranked countries based on several factors, including GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and freedom from corruption. The top 10 countries had the highest combined scores in these categories. Who were they? Scroll down to view the happiest countries on Earth.',
+            description: '"Happy Holidays" is a phrase that was first used over 100 years ago (Pruitt, 2018), but which countries are the happiest? In 2020, the World Happiness Report ranked countries based on several factors, including GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and freedom from corruption. The top 10 countries had the highest combined scores in these categories. Who were they? Scroll down to view the happiest countries on Earth.',
 
             location: {
                 center: [-97.73744, 30.281],
@@ -28,7 +28,7 @@ var config = {
             title: '1. Finland',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Imatran_kylpyl%C3%A4.jpg/800px-Imatran_kylpyl%C3%A4.jpg',
             alt: 'Photo of lakes in Finland',
-            description: 'Finland has occupied the top average score for three years. They have high scores for social support and freedom to make life choices. Photo by <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Imatran_kylpyl%C3%A4.jpg/800px-Imatran_kylpyl%C3%A4.jpg">Hirvela8860</a>.',
+            description: 'Finland has occupied the top average score for three years. They have high scores for social support and freedom to make life choices.<a href="https://worldhappiness.report/ed/2020/"><(Helliwell, J., Layard, R., Sachs, J., & De Neve, J., eds., 2020), </a>Photo by <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Imatran_kylpyl%C3%A4.jpg/800px-Imatran_kylpyl%C3%A4.jpg">Hirvela8860</a>.',
 
 
             location: {

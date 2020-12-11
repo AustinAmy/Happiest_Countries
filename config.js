@@ -12,7 +12,7 @@ var config = {
 
        {
             id: 'earth1',
-            description: '"Happy Holidays" is a phrase that was first used over 100 years ago (Pruitt, 2018), but which countries are the happiest? In 2020, the World Happiness Report ranked countries based on several factors, including GDP per capita, absence of corruption, social support, healthy life expectancy, generosity, and freedom. (Helliwell, J., Layard, R., Sachs, J, & De Neve, J., eds., 2020) The top 10 countries had the highest combined scores in these categories. Who were they? Scroll down to view the happiest countries on Earth.',
+            description: '"Happy Holidays" is a phrase that was first used over 100 years ago (Pruitt, 2018), but which countries are the happiest? In 2020, the World Happiness Report ranked countries based on several factors, including GDP per capita, perceptions of corruption, social support, healthy life expectancy, generosity, and freedom. (Helliwell, J., Layard, R., Sachs, J, & De Neve, J., eds., 2020) The top 10 countries had the highest combined scores in these categories. Who were they? Scroll down to view the happiest countries on Earth.',
 
             location: {
                 center: [-97.73744, 30.281],

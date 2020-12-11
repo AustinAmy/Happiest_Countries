@@ -6,7 +6,7 @@ var config = {
     alignment: 'left',
     title: 'The Happiest Countries on Earth',
     byline: 'By Amy Wu',
-    footer: 'Data Sources: Helliwell, J., Layard, R., Sachs, J, & De Neve, J., eds. (2020). World Happiness Report 2020. New York: Sustainable Development Solutions Network. https://worldhappiness.report/ed/2020/, Mapbox. (2020). Storytelling. https://github.com/mapbox/storytelling, Pruitt, S. (2018, Aug. 31). The War of Words behind ‘Happy Holidays’. History.com, https://worldhappiness.report/ed/2020/, Wikimedia Commons. https://commons.wikimedia.org/wiki/Main_Page' ;
+    footer: 'Data Sources: Helliwell, J., Layard, R., Sachs, J, & De Neve, J., eds. (2020). World Happiness Report 2020. New York: Sustainable Development Solutions Network. https://worldhappiness.report/ed/2020/, Mapbox. (2020). Storytelling. https://github.com/mapbox/storytelling, Pruitt, S. (2018, Aug. 31). The War of Words behind ‘Happy Holidays’. History.com, https://worldhappiness.report/ed/2020/, Wikimedia Commons. https://commons.wikimedia.org/wiki/Main_Page',
 
   chapters: [
 

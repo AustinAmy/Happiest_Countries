@@ -28,7 +28,7 @@ var config = {
             title: '1. Finland',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Imatran_kylpyl%C3%A4.jpg/800px-Imatran_kylpyl%C3%A4.jpg',
             alt: 'Photo of lakes in Finland',
-            description: 'Finland has occupied the top average score for three years. They have high scores for social support and freedom to make life choices. (Helliwell, J., Layard, R., Sachs, J., & De Neve, J., eds., 2020). \n</a>Photo by <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Imatran_kylpyl%C3%A4.jpg/800px-Imatran_kylpyl%C3%A4.jpg">Hirvela8860</a>.',
+            description: 'Finland has occupied the top average score for three years. They have high scores for social support and freedom to make life choices. (Helliwell, J., Layard, R., Sachs, J., & De Neve, J., eds., 2020). </n></a>Photo by <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Imatran_kylpyl%C3%A4.jpg/800px-Imatran_kylpyl%C3%A4.jpg">Hirvela8860</a>.',
 
 
             location: {
